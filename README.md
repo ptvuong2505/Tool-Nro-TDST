@@ -26,7 +26,7 @@
 | **Đánh Boss**            | Tự động tấn công boss với chiến thuật tối ưu theo vai trò (đánh/nhặt)                   |
 | **Nhặt Hồng Ngọc**       | Tự động nhặt Hồng Ngọc rơi ra sau khi boss bị hạ                                        |
 | **Auto Login**           | Tự động đăng nhập lại sau***X phút*** khoảng nghỉ giữa các đợt boss                     |
-| **Auto Stop**            | Tự động dừng sau**X giờ** kể từ lúc nhấn Start                                          |
+| **Auto Stop**            | Tự động dừng sau***X giờ*** kể từ lúc nhấn Start                                        |
 | **Giới hạn Hồng Ngọc**   | Tự động dừng nhặt khi đạt đủ số Hồng Ngọc mong muốn                                     |
 | **Nhặt ngọc thông minh** | Tài khoản không nhặt sẽ dừng đánh boss khi HP dưới**1 triệu** để tài khoản nhặt ăn boss |
 | **GoBack tự động**       | Tự động quay về đúng vị trí, map và khu chờ boss tương ứng                              |
@@ -57,7 +57,7 @@ TOOL/
 
 ### Cài đặt
 
-1. Tải bảng build ở releases
+1. Tải bảng build ở [releases](https://github.com/ptvuong2505/Tool-Nro-TDST/releases)
 2. Nếu muốn custome thì clone repo này
 
 ### Chạy Tool
